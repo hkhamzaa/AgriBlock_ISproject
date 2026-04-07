@@ -6,6 +6,9 @@
 [![Rust](https://img.shields.io/badge/Blockchain-Rust-orange.svg)](https://www.rust-lang.org/)
 [![License](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 
+
+https://youtu.be/YPznCc7jqDc demo video
+
 > **Semester Project for Information Security (IS) Course**  
 > _Developed by Hamza - Volunteered to bring this innovative idea to life as part of our professor's lab work_
 
